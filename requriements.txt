@@ -1,0 +1,6 @@
+opencv-python
+paddlepaddle
+paddleocr
+pandas
+pdf2image
+openpyxl
