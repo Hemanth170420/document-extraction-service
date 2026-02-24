@@ -208,4 +208,5 @@ __marimo__/
 venv/
 __pycache__/
 temp_images/
-
+# Project Generated Files
+output/
